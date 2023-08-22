@@ -1,10 +1,10 @@
 # Models
-### Decision Trees
-* [Tree cover types](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
+### Decision Trees and Random Forests
+* [Tree Cover Types](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
 * [Credit Score Prediction](https://github.com/lauren-forti/Programming-for-Data-Science/blob/main/forti_midterm.ipynb)
-* [Stroke Data Decision Trees](https://github.com/lauren-forti/Big-Data/blob/main/HW_07.ipynb)
+* [Stroke Data ](https://github.com/lauren-forti/Big-Data/blob/main/HW_07.ipynb)
 * [Abalones](https://github.com/lauren-forti/Programming-for-Data-Science/blob/main/Assignment3.ipynb)
-* [Bike Data Decision Trees and Random Forests](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework6.Rmd)
+* [Bike Data](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework6.Rmd)
 
 ### Deep Learning
 * [CNN](https://github.com/lauren-forti/Deep-Learning/blob/main/Project4_Forti_Lauren.ipynb)
@@ -12,8 +12,8 @@
 
 ### Regression
 * [Linear Regression](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework3.Rmd)
-* [Tree Cover Logistic Regression](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
-* [Stroke Data Logistic Regression](https://github.com/lauren-forti/Big-Data/blob/main/HW_06.ipynb)
+* [Logistic Regression - Tree Cover Types](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
+* [Logistic Regression - Stroke Data](https://github.com/lauren-forti/Big-Data/blob/main/HW_06.ipynb)
 * [Multiple Linear Regression and Regression Tree](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiFinalCourseProject.Rmd)
 * [General Linear Model](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework5.Rmd)
 
@@ -23,6 +23,9 @@
 
 
 # Technologies
+* [Python]()
+*
+
 ### Python
 * [Diamonds (2)](https://github.com/lauren-forti/Intro-to-Python/blob/main/Project_04_Forti.ipynb)
 
@@ -44,5 +47,7 @@
 * [R Shiny app](https://github.com/lauren-forti/Data-Visualization/blob/main/Forti_Lauren_Shiny_Homework_Week4.R)
 * [Tableau dashboards](https://github.com/lauren-forti/Data-Visualization/blob/main/Forti_Lauren_Week_5_Homework.twbx)
 
-### Text Processing
-* https://github.com/lauren-forti/Big-Data/blob/main/HW_02.ipynb
+### SAS
+* House Data [code](https://github.com/lauren-forti/SAS/blob/main/final.sas) / [results](https://github.com/lauren-forti/SAS/blob/main/final_results.pdf)
+* School Data ANOVA [code](https://github.com/lauren-forti/SAS/blob/main/project7.sas) / [results](https://github.com/lauren-forti/SAS/blob/main/project7_results.pdf)
+* School Data analysis [code](https://github.com/lauren-forti/SAS/blob/main/project6.sas) / [results](https://github.com/lauren-forti/SAS/blob/main/project6_results.pdf)
