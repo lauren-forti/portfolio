@@ -1,9 +1,20 @@
+# Table of Contents
+## Models
+* [Decision Trees and Random Forests](https://github.com/lauren-forti/portfolio/blob/main/README.md#decision-trees-and-random-forests)
+* [Deep Learning](https://github.com/lauren-forti/portfolio/blob/main/README.md#deep-learning)
+* [Regression](https://github.com/lauren-forti/portfolio/blob/main/README.md#regression)
+* [k-Means Clustering](https://github.com/lauren-forti/portfolio/blob/main/README.md#k-means-clustering)
+
 ## Technologies
 * [Python](https://github.com/lauren-forti/portfolio/blob/main/README.md#python)
 * [SQL](https://github.com/lauren-forti/portfolio/blob/main/README.md#sql)
 * [Spark](https://github.com/lauren-forti/portfolio/blob/main/README.md#spark)
 * [Data Visualization](https://github.com/lauren-forti/portfolio/blob/main/README.md#data-visualization)
 * [SAS](https://github.com/lauren-forti/portfolio/blob/main/README.md#sas)
+* [Experimental Design](https://github.com/lauren-forti/portfolio/blob/main/README.md#experimental-design)
+
+
+
 
 # Models
 ### Decision Trees and Random Forests
@@ -29,6 +40,7 @@
 
 ### k-Means Clustering
 * [k-Means](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework7.Rmd)
+
 
 
 
