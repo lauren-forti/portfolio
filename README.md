@@ -23,8 +23,11 @@
 
 
 # Technologies
-* [Python]()
-*
+* [Python](https://github.com/lauren-forti/portfolio/blob/main/README.md#python)
+* [SQL](https://github.com/lauren-forti/portfolio/blob/main/README.md#sql)
+* [Spark](https://github.com/lauren-forti/portfolio/blob/main/README.md#spark)
+* [Data Visualization](https://github.com/lauren-forti/portfolio/blob/main/README.md#data+visualization)
+* [SAS](https://github.com/lauren-forti/portfolio/blob/main/README.md#sas)
 
 ### Python
 * [Diamonds (2)](https://github.com/lauren-forti/Intro-to-Python/blob/main/Project_04_Forti.ipynb)
