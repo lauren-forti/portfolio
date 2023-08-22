@@ -1,11 +1,15 @@
-# Table of Contents
-## Models
+# Lauren Forti
+### This is a collection of examples of machine learning models/algorithm and data science technologies from my coursework. Please click on a section in the table of contents below or scroll down.
+<br>
+
+## Table of Contents
+### Models
 * [Decision Trees and Random Forests](https://github.com/lauren-forti/portfolio/blob/main/README.md#decision-trees-and-random-forests)
 * [Deep Learning](https://github.com/lauren-forti/portfolio/blob/main/README.md#deep-learning)
 * [Regression](https://github.com/lauren-forti/portfolio/blob/main/README.md#regression)
 * [k-Means Clustering](https://github.com/lauren-forti/portfolio/blob/main/README.md#k-means-clustering)
 
-## Technologies
+### Technologies
 * [Python](https://github.com/lauren-forti/portfolio/blob/main/README.md#python)
 * [SQL](https://github.com/lauren-forti/portfolio/blob/main/README.md#sql)
 * [Spark](https://github.com/lauren-forti/portfolio/blob/main/README.md#spark)
