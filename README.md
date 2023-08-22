@@ -1,4 +1,3 @@
-# 
 # Models
 ### Decision Trees
 * [Tree cover types](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
@@ -20,13 +19,12 @@
 
 ### k-Means Clustering
 * [k-Means](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework7.Rmd)
-* 
 
 
 
 # Technologies
 ### Python
-* [Armenian Immigration](https://sites.google.com/uri.edu/fortiarmenianimmigration/python-scripts?authuser=0)
+* [Diamonds (2)](https://github.com/lauren-forti/Intro-to-Python/blob/main/Project_04_Forti.ipynb)
 
 ### SQL
 * [Country data](https://github.com/lauren-forti/Programming-for-Data-Science/blob/main/forti_assignment6.ipynb)
@@ -39,7 +37,12 @@
 * [PySpark (2)](https://github.com/lauren-forti/Big-Data/blob/main/HW_03.ipynb)
 
 ### Data Visualization 
-* [Diamonds with matplotlib](https://github.com/lauren-forti/Big-Data/blob/main/HW_03.ipynb)
+* [Diamonds (matplotlib)](https://github.com/lauren-forti/Big-Data/blob/main/HW_03.ipynb)
+* [Bubble plot with matplotlib](https://github.com/lauren-forti/Data-Visualization/blob/main/Forti_Lauren_Week3_Plotting_Matplotlib_Homework.ipynb)
+* [in R with ggplot2](https://github.com/lauren-forti/Data-Visualization/blob/main/Forti_Lauren_ggplot2_Homework_Part2_Markdown.Rmd)
+* [in R with ggplot2 (2)](https://github.com/lauren-forti/Data-Visualization/blob/main/Forti_Lauren_ggplot2_Homework_Part2_3_Markdown.Rmd)
+* [R Shiny app](https://github.com/lauren-forti/Data-Visualization/blob/main/Forti_Lauren_Shiny_Homework_Week4.R)
+* [Tableau dashboards](https://github.com/lauren-forti/Data-Visualization/blob/main/Forti_Lauren_Week_5_Homework.twbx)
 
 ### Text Processing
 * https://github.com/lauren-forti/Big-Data/blob/main/HW_02.ipynb
