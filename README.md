@@ -1,3 +1,10 @@
+## Technologies
+* [Python](https://github.com/lauren-forti/portfolio/blob/main/README.md#python)
+* [SQL](https://github.com/lauren-forti/portfolio/blob/main/README.md#sql)
+* [Spark](https://github.com/lauren-forti/portfolio/blob/main/README.md#spark)
+* [Data Visualization](https://github.com/lauren-forti/portfolio/blob/main/README.md#data-visualization)
+* [SAS](https://github.com/lauren-forti/portfolio/blob/main/README.md#sas)
+
 # Models
 ### Decision Trees and Random Forests
 * [Tree Cover Types](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
@@ -26,12 +33,6 @@
 
 
 # Technologies
-* [Python](https://github.com/lauren-forti/portfolio/blob/main/README.md#python)
-* [SQL](https://github.com/lauren-forti/portfolio/blob/main/README.md#sql)
-* [Spark](https://github.com/lauren-forti/portfolio/blob/main/README.md#spark)
-* [Data Visualization](https://github.com/lauren-forti/portfolio/blob/main/README.md#data-visualization)
-* [SAS](https://github.com/lauren-forti/portfolio/blob/main/README.md#sas)
-
 ### Python
 * [Diamonds (2)](https://github.com/lauren-forti/Intro-to-Python/blob/main/Project_04_Forti.ipynb)
 * [Stock Simulation](https://github.com/lauren-forti/Intro-to-Python/blob/main/Project_03_Forti.ipynb)
