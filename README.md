@@ -5,14 +5,23 @@
 * [Credit Score Prediction](https://github.com/lauren-forti/Programming-for-Data-Science/blob/main/forti_midterm.ipynb)
 * [Stroke Data Decision Trees](https://github.com/lauren-forti/Big-Data/blob/main/HW_07.ipynb)
 * [Abalones](https://github.com/lauren-forti/Programming-for-Data-Science/blob/main/Assignment3.ipynb)
+* [Bike Data Decision Trees and Random Forests](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework6.Rmd)
 
 ### Deep Learning
 * [CNN](https://github.com/lauren-forti/Deep-Learning/blob/main/Project4_Forti_Lauren.ipynb)
 * [RNN](https://github.com/lauren-forti/Deep-Learning/blob/main/Project5_Forti_Lauren.ipynb)
 
 ### Regression
-* [Tree cover types](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
+* [Linear Regression](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework3.Rmd)
+* [Tree Cover Logistic Regression](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
 * [Stroke Data Logistic Regression](https://github.com/lauren-forti/Big-Data/blob/main/HW_06.ipynb)
+* [Multiple Linear Regression and Regression Tree](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiFinalCourseProject.Rmd)
+* [General Linear Model](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework5.Rmd)
+
+### k-Means Clustering
+* [k-Means](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework7.Rmd)
+* 
+
 
 
 # Technologies
