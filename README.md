@@ -12,9 +12,10 @@
 * [Data Visualization](https://github.com/lauren-forti/portfolio/blob/main/README.md#data-visualization)
 * [SAS](https://github.com/lauren-forti/portfolio/blob/main/README.md#sas)
 * [Experimental Design](https://github.com/lauren-forti/portfolio/blob/main/README.md#experimental-design)
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 # Models
 ### Decision Trees and Random Forests
@@ -41,8 +42,9 @@
 ### k-Means Clustering
 * [k-Means](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework7.Rmd)
 
-
-
+<br>
+<br>
+<br>
 
 # Technologies
 ### Python
