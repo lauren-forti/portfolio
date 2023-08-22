@@ -16,6 +16,9 @@
 
 
 # Technologies
+### Python
+* [Armenian Immigration](https://sites.google.com/uri.edu/fortiarmenianimmigration/python-scripts?authuser=0)
+
 ### SQL
 * [Country data](https://github.com/lauren-forti/Programming-for-Data-Science/blob/main/forti_assignment6.ipynb)
 
@@ -31,4 +34,3 @@
 
 ### Text Processing
 * https://github.com/lauren-forti/Big-Data/blob/main/HW_02.ipynb
-* 
