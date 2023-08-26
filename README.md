@@ -35,7 +35,7 @@
 
 ### Regression
 * [Linear Regression](https://github.com/lauren-forti/Predictive-Modeling/blob/main/FortiHomework3.Rmd)
-* [Linear Regression - Wine Quality](https://github.com/lauren-forti/Foundations-of-Data-Science/blob/main/final%20project.py)\
+* [Linear Regression - Wine Quality](https://github.com/lauren-forti/Foundations-of-Data-Science/blob/main/final%20project.py)
 * [Linear Regression - Auto dataset](https://github.com/lauren-forti/Intro-to-Python/blob/main/Project_01_Forti.ipynb)
 * [Linear Regression - Restaurants](https://github.com/lauren-forti/Intro-to-Python/blob/main/HW_08_Forti.ipynb)
 * [Logistic Regression - Tree Cover Types](https://github.com/lauren-forti/Big-Data/blob/main/Project_03.ipynb)
